@@ -58,15 +58,15 @@
 
 </div>
 
-<details>
-<summary>🏆 GitHub trophies</summary>
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=azaanmalik&theme=dracula&no-frame=true&margin-w=8)
+[![GitHub Achievements](https://img.shields.io/badge/Explore-GitHub_Achievements-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azaanmalik?tab=achievements)
 
 </div>
-</details>
+
+> GitHub's official achievements page is linked directly so this section remains useful even when third-party trophy image services are unavailable.
 
 ---
 
