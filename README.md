@@ -2,7 +2,7 @@
 
 # Hi, I'm Muhammad Azaan Malik 👋
 
-### AI & Machine Learning | Full-Stack Development | Android & Automation
+[![Animated developer introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=1700&pause=0&color=00E5FF&center=true&vCenter=true&repeat=true&width=850&height=48&lines=AI+%26+Machine+Learning+Developer;Full-Stack+Web+Developer;Android+Application+Developer;Python+%7C+Java+%7C+React+%7C+C%23;Building+Intelligent+Digital+Experiences)](https://azaanmalik.github.io/)
 
 *Building practical software solutions, from intelligent models to usable web and mobile applications.*
 
