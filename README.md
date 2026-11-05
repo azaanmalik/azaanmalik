@@ -8,8 +8,13 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-azaanmalik-181717?style=flat-square&logo=github)](https://github.com/azaanmalik)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:azaan.malikx15@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Website-00E5FF?style=for-the-badge&labelColor=3B0A6B&color=00E5FF)](https://azaanmalik.github.io/)
 
 </div>
+
+### 🚀 [Explore My Interactive Developer Portfolio](https://azaanmalik.github.io/)
+
+*Discover my projects, technical skills, experience, and interactive project galleries.*
 
 ## 👨‍💻 About Me
 
